@@ -15,3 +15,10 @@ i am going to build basic webpage in order of:
         b. po box
         c. terms and conditions 
         b. copy right 
+
+
+# Requirments
+
+fonts:
+Google fonts :
+https://fonts.google.com/specimen/Dancing+Script?preview.text=Safe%20Haven&preview.text_type=custom <Dancing scripts>

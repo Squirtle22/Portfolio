@@ -1,0 +1,22 @@
+body {
+    background: url("/assets/im/Home/Home.jpg");
+    font-family: dancing script;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+    
+}
+
+.container h1 {
+    font-size: 100px;
+    padding-top: 200px;
+}
+
+.container p {
+    padding: 0;
+    font-size: 50px;
+    font-family: ;
+}
